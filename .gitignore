@@ -1,0 +1,30 @@
+# Large data files
+paysim dataset.csv
+paysim_sample.csv
+*.mp4
+
+# Personal documents
+Arnold Muzarurwi Resume.pdf
+
+# Teammate separate projects
+C_Makanga_recommender_project.ipynb
+RMabika_FraudDetectionProject (1).html
+
+# Internal session and meeting docs
+FraudDetection_FinalReport.html
+FraudDetection_SessionSummary (1).html
+Meeting_Summary_Apr14 2.html
+Meeting_Summary_Mar31.html
+FraudDetection_ProgressSummary.docx
+FraudDetection_ProgressSummary_backup.docx
+EMSS2016.pdf
+FraudRings_Final_Project-1.pdf
+
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+
+# Jupyter
+.ipynb_checkpoints/
