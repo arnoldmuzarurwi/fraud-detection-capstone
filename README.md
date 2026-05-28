@@ -1,7 +1,7 @@
 # Financial Fraud Detection Using Graph Data Science
 ### Unmasking Mobile Money Fraud with Neo4j, Cypher, and Graph Algorithms
 
-![Project Architecture](Screenshot%202026-05-17%20at%2013.11.48.png)
+![Project Architecture](Graph_Science_vs._Financial_Fraud.png)
 
 ---
 
